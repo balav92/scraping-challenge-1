@@ -1,6 +1,8 @@
 # scraping-challenge-1
 **Overview:**
 
+Referral Link: https://docs.scrapy.org/en/latest/intro/tutorial.html
+
 We are going to obtain the following datas from the site books.toscrape.com using scrapy :
 
 Book Title, Product Price, Image URL and Book URL
